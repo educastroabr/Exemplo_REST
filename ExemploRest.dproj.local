@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/01 16:18:40.000.008,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/02 21:10:24.000.923,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/08 16:34:11.000.101,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/21 10:11:21.000.113,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/28 11:00:45.000.095,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 22:40:05.000.082,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/12 17:12:14.000.409,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/01 22:20:15.000.038,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/16 17:46:22.000.287,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/21 14:28:49.000.725,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/26 15:34:27.000.376,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/06 12:16:09.000.933,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/08 18:46:34.000.525,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/27 17:50:04.000.898,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/28 18:05:09.000.380,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/04/23 18:04:54.000.249,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/05/16 09:39:31.000.246,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/07 12:05:49.000.964,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/25 16:57:48.000.502,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/02/24 11:02:42.000.292,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/03/16 10:12:32.000.980,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/03/16 10:15:03.000.445,=C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2026/03/16 10:16:10.000.617,C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=D:\Projetos\_REST\UntHttpRequest.pas</Transaction>
+    <Transaction>2026/03/16 10:16:23.000.226,C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos\_REST\UntFrmPrincipal.pas</Transaction>
+    <Transaction>2026/03/16 10:16:23.000.226,C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projetos\_REST\UntFrmPrincipal.dfm</Transaction>
+    <Transaction>2026/03/16 10:16:33.000.827,C:\Users\educa\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos\_REST\ExemploRest.dproj</Transaction>
+    <Transaction>2026/03/16 10:17:27.000.827,=D:\Projetos\_REST\Unit1.pas</Transaction>
+    <Transaction>2026/03/16 10:17:35.000.600,D:\Projetos\_REST\Unit1.pas=D:\Projetos\_REST\UntTipo.pas</Transaction>
+    <Transaction>2026/03/16 10:17:57.000.902,=D:\Projetos\_REST\Unit1.pas</Transaction>
+    <Transaction>2026/03/16 10:18:08.000.307,D:\Projetos\_REST\Unit1.pas=D:\Projetos\_REST\UntConstante.pas</Transaction>
+    <Transaction>2026/03/16 10:19:17.000.687,=D:\Projetos\_REST\Unit1.pas</Transaction>
+    <Transaction>2026/03/16 10:19:22.000.612,D:\Projetos\_REST\Unit1.pas=D:\Projetos\_REST\UntCustomExcecao.pas</Transaction>
+    <Transaction>2026/03/16 10:19:38.000.929,=D:\Projetos\_REST\Unit1.pas</Transaction>
+    <Transaction>2026/03/16 10:19:50.000.479,D:\Projetos\_REST\Unit1.pas=D:\Projetos\_REST\UntExcecao.pas</Transaction>
+    <Transaction>2026/03/16 10:21:11.000.542,=D:\Projetos\_REST\Unit1.pas</Transaction>
+    <Transaction>2026/03/16 10:21:16.000.845,D:\Projetos\_REST\Unit1.pas=D:\Projetos\_REST\UntUtil.pas</Transaction>
+    <Transaction>2026/03/16 10:22:06.000.010,=D:\Projetos\_REST\Unit1.pas</Transaction>
+    <Transaction>2026/03/16 10:22:21.000.205,D:\Projetos\_REST\Unit1.pas=D:\Projetos\_REST\UntEMail.pas</Transaction>
+    <Transaction>2026/03/16 10:22:43.000.627,=D:\Projetos\_REST\Unit1.pas</Transaction>
+    <Transaction>2026/03/16 10:22:57.000.258,D:\Projetos\_REST\Unit1.pas=D:\Projetos\_REST\UntDialogMessage.pas</Transaction>
+    <Transaction>2026/03/16 10:36:14.000.780,=D:\Projetos\_REST\Unit1.pas</Transaction>
+    <Transaction>2026/03/16 10:36:30.000.956,D:\Projetos\_REST\Unit1.pas=D:\Projetos\_REST\UntWsLoterias.pas</Transaction>
+    <Transaction>2026/03/16 10:37:20.000.580,=D:\Projetos\_REST\Unit1.pas</Transaction>
+    <Transaction>2026/03/16 10:37:34.000.495,D:\Projetos\_REST\Unit1.pas=D:\Projetos\_REST\UntWsCaixaLoteria.pas</Transaction>
+  </Transactions>
+</BorlandProject>
